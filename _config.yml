@@ -1,0 +1,8 @@
+title: "Atelier CI/CD — Recette magique"
+description: "Découvrez le CI/CD avec GitHub Actions et GitHub Pages"
+theme: jekyll-theme-merlot
+markdown: kramdown
+exclude:
+  - scripts
+  - requirements.txt
+  - README.md
